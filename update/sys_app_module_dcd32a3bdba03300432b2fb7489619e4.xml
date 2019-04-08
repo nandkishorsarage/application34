@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="myNewApplication">48d3663bdba03300432b2fb74896199f</application>
+        <assessment/>
+        <content_page/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>myNewApplication Table</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_195756_mynewappl_mynewapplication_table</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_195756_mynewappl.user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-04-08 14:51:39</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>dcd32a3bdba03300432b2fb7489619e4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>myNewApplication Table</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="myNewApplication" source="x_195756_mynewappl">bbc3ea7bdb203300432b2fb748961940</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="myNewApplication">bbc3ea7bdb203300432b2fb748961940</sys_scope>
+        <sys_update_name>sys_app_module_dcd32a3bdba03300432b2fb7489619e4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-04-08 14:51:39</sys_updated_on>
+        <timeline_page/>
+        <title>myNewApplication Table</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>
